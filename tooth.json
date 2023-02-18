@@ -1,19 +1,19 @@
 {
     "format_version": 1,
     "tooth": "github.com/Tooth-Hub/LLDotNET",
-    "version": "2.9.3",
+    "version": "2.10.0-pre-2",
     "dependencies": {
         "github.com/Tooth-Hub/LiteLoaderBDS": [
             [
-                "2.9.x"
+                "2.10.x"
             ]
         ]
     },
     "information": {
         "name": "LiteLoader.NET",
-        "description": "LiteLoader bindings for .NET",
-        "author": "LiteLDev",
-        "license": "LGPLv3",
+        "description": "LiteLoader bindings for .NET (WIP)",
+        "author": "LiteLoader.NET Developers",
+        "license": "LGPL 3.0",
         "homepage": "https://github.com/LiteLDev/LiteLoader.NET"
     },
     "placement": [
